@@ -1,0 +1,34 @@
+/* Bold, modern typography */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.author__name {
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+.archive__item-title {
+  font-weight: 600;
+}
+
+/* Clean, modern spacing */
+.page__content {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+/* Bolder navigation */
+.greedy-nav a {
+  font-weight: 600;
+}
+
+/* Modern accent color - change to your preference */
+a {
+  color: #0066cc;
+}
+
+a:hover {
+  color: #004499;
+}
