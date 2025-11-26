@@ -41,3 +41,35 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom bold, modern styles */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700 !important;
+  letter-spacing: -0.5px;
+}
+
+.author__name {
+  font-weight: 700 !important;
+  font-size: 1.5em !important;
+}
+
+.archive__item-title {
+  font-weight: 600 !important;
+}
+
+.page__content {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.greedy-nav a {
+  font-weight: 600 !important;
+}
+
+a {
+  color: #0066cc !important;
+}
+
+a:hover {
+  color: #004499 !important;
+}
