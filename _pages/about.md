@@ -11,7 +11,7 @@ I am a Research Scientist at the Broad Institute of MIT and Harvard, where I lea
 
 My work involves establishing and optimizing protocols for single-cell multiome analyses across diverse human and non-human primate tissue types, collaborating with research groups across multiple institutions to advance our understanding of developmental biology and tissue-specific regulatory landscapes.
 
-Prior to joining the Broad Institute, I completed postdoctoral training at Yale University School of Medicine, where I investigated therapeutic vulnerabilities in oncometabolite-producing cancers. I secured a $250,000 AACR-AstraZeneca START grant to study DNA repair inhibitor combinations for targeting IDH1/2 mutant cancers. During my PhD at Virginia Commonwealth University, I contributed to the development of ATM inhibitors that advanced into Phase I clinical trials for glioblastoma patients.
+Prior to joining the Broad Institute, I completed postdoctoral training at Yale University School of Medicine, where I investigated therapeutic vulnerabilities in oncometabolite-producing cancers. I secured AACR-AstraZeneca START grant to study DNA repair inhibitor combinations for targeting IDH1/2 mutant cancers. During my PhD at Virginia Commonwealth University, I contributed to the development of ATM inhibitors that advanced into Phase I clinical trials for glioblastoma patients.
 
 ## Research Interests
 - Single-cell and spatial transcriptomics
