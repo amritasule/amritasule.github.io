@@ -1,6 +1,6 @@
 # Amrita Sule, PhD - Personal Website
 
-Professional website showcasing my research in single-cell genomics and spatial transcriptomics.
+Professional website showcasing my research.
 
 **🌐 Visit the live site:** [amritasule.github.io](https://amritasule.github.io)
 
