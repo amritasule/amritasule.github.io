@@ -73,3 +73,21 @@ a {
 a:hover {
   color: #004499 !important;
 }
+/* Reduce spacing on publications page */
+.archive__item {
+  margin-bottom: 1em !important;  /* Reduce space between publications (default is 2em) */
+}
+
+.archive__item-title {
+  margin-bottom: 0.25em !important;  /* Reduce space after title */
+  line-height: 1.2 !important;
+}
+
+.archive__item-excerpt {
+  margin-bottom: 0.5em !important;  /* Reduce space after excerpt */
+  line-height: 1.4 !important;
+}
+
+.page__content p {
+  margin-bottom: 0.75em !important;  /* Tighter paragraph spacing */
+}
